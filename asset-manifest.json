@@ -1,38 +1,35 @@
 {
   "files": {
-    "main.css": "/nataliez-portfolio/static/css/main.72f132a1.css",
-    "main.js": "/nataliez-portfolio/static/js/main.6e0e67e2.js",
+    "main.css": "/nataliez-portfolio/static/css/main.aad8b2a6.css",
+    "main.js": "/nataliez-portfolio/static/js/main.286179e7.js",
     "static/css/64.bba8fa55.chunk.css": "/nataliez-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/nataliez-portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/nataliez-portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/nataliez-portfolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/headshot.JPG": "/nataliez-portfolio/static/media/headshot.3450a9fd4d28358bbcfb.JPG",
-    "static/media/stanfordLogo.png": "/nataliez-portfolio/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
-    "static/media/harvardLogo.png": "/nataliez-portfolio/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
     "static/media/Montserrat-Regular.ttf": "/nataliez-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/nataliez-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/contactMailDark.svg": "/nataliez-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
-    "static/media/quoraLogo.png": "/nataliez-portfolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/ibmLogo.png": "/nataliez-portfolio/static/media/ibmLogo.a77b49a3ab28818be4eb.png",
+    "static/media/resume.pdf": "/nataliez-portfolio/static/media/resume.5755020eace0c42b7dbc.pdf",
+    "static/media/gwreLogo.png": "/nataliez-portfolio/static/media/gwreLogo.d8652ef1269ff016a866.png",
     "static/media/googleAssistantLogo.webp": "/nataliez-portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
-    "static/media/airbnbLogo.png": "/nataliez-portfolio/static/media/airbnbLogo.e8497507db673acd3991.png",
-    "static/media/facebookLogo.png": "/nataliez-portfolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
     "static/media/codeInLogo.webp": "/nataliez-portfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/nusLogo.png": "/nataliez-portfolio/static/media/nusLogo.03acb6506fd3fcd5b3f0.png",
     "static/media/skill.svg": "/nataliez-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/nataliez-portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/pwaLogo.webp": "/nataliez-portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "static/media/saayaHealthLogo.webp": "/nataliez-portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/nataliez-portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/nataliez-portfolio/index.html",
     "static/media/talksCardBack.svg": "/nataliez-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.72f132a1.css.map": "/nataliez-portfolio/static/css/main.72f132a1.css.map",
-    "main.6e0e67e2.js.map": "/nataliez-portfolio/static/js/main.6e0e67e2.js.map",
+    "main.aad8b2a6.css.map": "/nataliez-portfolio/static/css/main.aad8b2a6.css.map",
+    "main.286179e7.js.map": "/nataliez-portfolio/static/js/main.286179e7.js.map",
     "64.bba8fa55.chunk.css.map": "/nataliez-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/nataliez-portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/nataliez-portfolio/static/css/769.b3cbb36b.chunk.css.map",
     "769.bda0d7b7.chunk.js.map": "/nataliez-portfolio/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72f132a1.css",
-    "static/js/main.6e0e67e2.js"
+    "static/css/main.aad8b2a6.css",
+    "static/js/main.286179e7.js"
   ]
 }
